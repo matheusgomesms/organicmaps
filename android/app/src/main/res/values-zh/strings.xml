@@ -480,6 +480,8 @@
     <!-- Editable House Number text field (in address block). -->
     <string name="house_number">门牌号码</string>
     <string name="details">详细信息</string>
+    <string name="social_media">社交媒体</string>
+    <string name="building">建筑</string>
     <!-- Text field to enter non-existing street name, below list of known streets around -->
     <string name="add_street">添加街道</string>
     <!-- Error to display when a new street name is not entered in the New street dialog -->
@@ -850,8 +852,6 @@
     <string name="aa_request_permission_activity_text">Android Auto 中的有机地图需要获得定位许可才能有效工作</string>
     <!-- Grant Permissions button. -->
     <string name="aa_grant_permissions">授予权限</string>
-    <!-- Text that will be displayed in the notification title when the app is connected to Android Auto. -->
-    <string name="aa_connected_to_car_notification_title">与汽车连接</string>
     <!-- Outdoors/hiking map style (activity) name in the Styles and Layers dialog -->
     <string name="button_layer_outdoor">徒步旅行</string>
     <!-- Text displayed when a webview or a browser are disabled, and external links can't be opened. -->

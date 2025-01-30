@@ -470,6 +470,8 @@
     <!-- Editable House Number text field (in address block). -->
     <string name="house_number">Bina nömrəsi</string>
     <string name="details">Təfərrüatlar</string>
+    <string name="social_media">Sosial Media</string>
+    <string name="building">bina</string>
     <!-- Text field to enter non-existing street name, below list of known streets around -->
     <string name="add_street">Küçə əlavə edin</string>
     <!-- Error to display when a new street name is not entered in the New street dialog -->
@@ -817,8 +819,6 @@
     <string name="car_continue_in_the_car">Avtomobil ekranına</string>
     <!-- Grant Permissions button. -->
     <string name="aa_grant_permissions">İcazələr verin</string>
-    <!-- Text that will be displayed in the notification title when the app is connected to Android Auto. -->
-    <string name="aa_connected_to_car_notification_title">Avtomobilə qoşulub</string>
     <!-- Outdoors/hiking map style (activity) name in the Styles and Layers dialog -->
     <string name="button_layer_outdoor">Yürüyüş</string>
     <string name="volume">Həcm</string>

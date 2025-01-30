@@ -112,6 +112,8 @@
     <!-- Status message indicating that user did not login to OSM profile yet. -->
     <string name="not_signed_in">Hujasajiliwa</string>
     <string name="login_osm">Ingia kwa OpenStreetMap</string>
+    <string name="social_media">Mitandao ya Kijamii</string>
+    <string name="building">Jengo</string>
     <string name="level">Ghorofa</string>
     <!-- The second part of the editor_edit_place_name_hint to explain that name should be entered in a local language, see https://wiki.openstreetmap.org/wiki/Key:name -->
     <string name="editor_default_language_hint">Kama ilivyoandikwa katika lugha ya kienyeji</string>
@@ -359,8 +361,6 @@
     <string name="aa_request_permission_activity_text">Organic Maps katika Android Auto zinahitaji ruhusa ya eneo ili kufanya kazi kwa ufanisi</string>
     <!-- Grant Permissions button. -->
     <string name="aa_grant_permissions">Ruhusa za ruzuku</string>
-    <!-- Text that will be displayed in the notification title when the app is connected to Android Auto. -->
-    <string name="aa_connected_to_car_notification_title">Imeunganishwa na gari</string>
     <!-- Outdoors/hiking map style (activity) name in the Styles and Layers dialog -->
     <string name="button_layer_outdoor">Kutembea kwa miguu</string>
     <!-- Text displayed when a webview or a browser are disabled, and external links can't be opened. -->

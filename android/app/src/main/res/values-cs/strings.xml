@@ -448,6 +448,8 @@
     <!-- Editable House Number text field (in address block). -->
     <string name="house_number">Číslo domu</string>
     <string name="details">Podrobnosti</string>
+    <string name="social_media">Sociální média</string>
+    <string name="building">Budova</string>
     <!-- Text field to enter non-existing street name, below list of known streets around -->
     <string name="add_street">Přidat ulici</string>
     <!-- Error to display when a new street name is not entered in the New street dialog -->
@@ -802,8 +804,6 @@
     <string name="aa_request_permission_activity_text">Organic Maps v systému Android Auto potřebují k efektivní práci povolení k poloze</string>
     <!-- Grant Permissions button. -->
     <string name="aa_grant_permissions">Udělení oprávnění</string>
-    <!-- Text that will be displayed in the notification title when the app is connected to Android Auto. -->
-    <string name="aa_connected_to_car_notification_title">Připojení k automobilu</string>
     <!-- Outdoors/hiking map style (activity) name in the Styles and Layers dialog -->
     <string name="button_layer_outdoor">Pěší turistika</string>
     <!-- Text displayed when a webview or a browser are disabled, and external links can't be opened. -->

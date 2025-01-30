@@ -472,6 +472,8 @@
     <!-- Editable House Number text field (in address block). -->
     <string name="house_number">Αριθμός κτιρίου</string>
     <string name="details">Λεπτομέρειες</string>
+    <string name="social_media">Μέσα κοινωνικής δικτύωσης</string>
+    <string name="building">Κτίριο</string>
     <!-- Text field to enter non-existing street name, below list of known streets around -->
     <string name="add_street">Προσθέστε οδό</string>
     <!-- Error to display when a new street name is not entered in the New street dialog -->
@@ -836,8 +838,6 @@
     <string name="aa_request_permission_activity_text">Η εφαρμογή Organic Maps στο Android Auto χρειάζεται μια άδεια τοποθεσίας για να λειτουργήσει αποτελεσματικά</string>
     <!-- Grant Permissions button. -->
     <string name="aa_grant_permissions">Να επιτραπεί</string>
-    <!-- Text that will be displayed in the notification title when the app is connected to Android Auto. -->
-    <string name="aa_connected_to_car_notification_title">Ενεργή σύνδεση με το αυτοκίνητο</string>
     <!-- Outdoors/hiking map style (activity) name in the Styles and Layers dialog -->
     <string name="button_layer_outdoor">Πεζοπορία</string>
     <!-- Text displayed when a webview or a browser are disabled, and external links can't be opened. -->
